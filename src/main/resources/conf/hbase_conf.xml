@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<env>
+    <!-- 测试环境 -->
+    <test>
+        <zk_quorum></zk_quorum>
+        <zk_port></zk_port>
+        <zk_node></zk_node>
+    </test>
+
+    <!-- 线上环境 -->
+    <online>
+        <zk_quorum></zk_quorum>
+        <zk_port></zk_port>
+        <zk_node></zk_node>
+    </online>
+
+</env>
